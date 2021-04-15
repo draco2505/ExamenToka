@@ -1,0 +1,12 @@
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\bin\Debug\net5.0\PersonaFisica.Core.deps.json
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\bin\Debug\net5.0\PersonaFisica.Core.dll
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\bin\Debug\net5.0\ref\PersonaFisica.Core.dll
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\bin\Debug\net5.0\PersonaFisica.Core.pdb
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\PersonaFisica.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\PersonaFisica.Core.AssemblyInfoInputs.cache
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\PersonaFisica.Core.AssemblyInfo.cs
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\PersonaFisica.Core.csproj.CoreCompileInputs.cache
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\PersonaFisica.Core.dll
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\ref\PersonaFisica.Core.dll
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\PersonaFisica.Core.pdb
+C:\Users\karla\Desktop\Cosas de papá\Examen\Api\PersonaFisicaSolution\PersonaFisica.Core\obj\Debug\net5.0\PersonaFisica.Core.csprojAssemblyReference.cache
